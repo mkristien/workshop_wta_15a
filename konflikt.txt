@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ja som z Marsu
 
+=======
+skusam konflikt
+>>>>>>> main
