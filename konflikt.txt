@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 ja som z Marsu
-
+ja som z Venuse
 =======
 skusam konflikt
 >>>>>>> main
