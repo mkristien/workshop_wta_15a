@@ -5,3 +5,9 @@ stiahnut repo
 ako sa menia a pridavaju subory
 ako sa riesia zmeny
 ako sa riesia konflikty
+a ako sa mazu subory
+ako sa ignoruju subory
+aa ako sa usporaduvaju zmeny v gitkrakene
+ale stale neviem ako jednoducho sejvnut tento subor
+lebo tu nie je moznost save a ani ctrl S nefunguje
+preco musim kliknut vedlaaa
