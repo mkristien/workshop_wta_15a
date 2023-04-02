@@ -1,0 +1,7 @@
+info
+co sme sa naucili
+stiahnut gitkraken
+stiahnut repo
+ako sa menia a pridavaju subory
+ako sa riesia zmeny
+ako sa riesia konflikty
